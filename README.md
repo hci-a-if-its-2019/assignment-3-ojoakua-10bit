@@ -4,12 +4,36 @@
 > and an additional novice-participant with different demographics if possible.
 > Respectively, revise your prototype as an attempt to fix any problems found in this Usability Evaluation.
 
+## Table of content
+
+- [Usability Evaluation and Prototyping (again)](#usability-evaluation-and-prototyping-again)
+  - [Table of content](#table-of-content)
+  - [Operating the Prototype](#operating-the-prototype)
+  - [Part A: Usability Evaluation](#part-a-usability-evaluation)
+    - [1. Brief Description of Participants](#1-brief-description-of-participants)
+      - [a. Description of Participant 1](#a-description-of-participant-1)
+      - [b. Description of Participant 2](#b-description-of-participant-2)
+    - [2. Evaluation Script](#2-evaluation-script)
+    - [3. Transcript](#3-transcript)
+      - [a. Transcript with Participant 1](#a-transcript-with-participant-1)
+      - [b. Transcript with Participant 2](#b-transcript-with-participant-2)
+    - [4. Feedback and Incidence Analysis](#4-feedback-and-incidence-analysis)
+      - [OBSERVATION 1](#observation-1)
+      - [OBSERVATION 2](#observation-2)
+      - [OBSERVATION 3](#observation-3)
+  - [Part B: Prototyping (again)](#part-b-prototyping-again)
+    - [Sketch](#sketch)
+    - [Design Rationale](#design-rationale)
+    - [High-Fidelity Interactive-Prototype](#high-fidelity-interactive-prototype)
+
 ## Operating the Prototype
 > Record a video (screen-recording is preferred) while you operating your prototype.
 > Present the ideal case on how to interact with the prototype from the beginning to the end.
 > Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
 
-[![Prototype Video](http://img.youtube.com/vi/IYG0LkOd58M/0.jpg)](https://youtu.be/IYG0LkOd58M?t=72)
+Here is how we supposed to use the prototype:
+
+[![Prototype Video](/img/thumb.png)](https://ojoakua-10bit.github.io/static/video/Screenrecorder-2019-05-01-19-27-02-573.mp4)
 
 ---
 
@@ -69,9 +93,9 @@ Here is the instruction that I give to each participant (not in particular order
 
 #### a. Transcript with Participant 1
  1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 1. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 1. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 1. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+ 2. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+ 3. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+ 4. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
 
 #### b. Transcript with Participant 2
  - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
