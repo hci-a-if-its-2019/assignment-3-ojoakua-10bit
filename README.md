@@ -21,6 +21,7 @@
       - [OBSERVATION 1](#observation-1)
       - [OBSERVATION 2](#observation-2)
       - [OBSERVATION 3](#observation-3)
+      - [OBSERVATION 4](#observation-4)
   - [Part B: Prototyping (again)](#part-b-prototyping-again)
     - [Sketch](#sketch)
     - [Design Rationale](#design-rationale)
@@ -31,7 +32,7 @@
 > Present the ideal case on how to interact with the prototype from the beginning to the end.
 > Upload the video on any video-sharing website (e.g., YouTube), then attach the video link on this report.
 
-Here is how we supposed to use the prototype:
+Here is how I use the prototype:
 
 [![Prototype Video](/img/thumb.png)](https://ojoakua-10bit.github.io/static/video/Screenrecorder-2019-05-01-19-27-02-573.mp4)
 
@@ -107,33 +108,46 @@ Here is the instruction that I give to each participant (not in particular order
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
 
 #### OBSERVATION 1
-![Prototype Screen 1](https://www.europassitalian.com/wp-content/uploads/2018/02/bravolol-app-screenshot-1-635x1128.png)
+![Prototype Screen 1](/img/obsv1.png)
+<!-- TODO: Annotate the pic -->
 
- - **Reference**: Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen.
- - **Feedback**: Provide feedback (positive or negative) given by the participants, if any.
- - **Incidence**: Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any.
- - **Reason**: Explain the reason for the breakdowns or the negative feedback observed on the screen.
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`.
+ - **Reference**: <!-- TODO: give reference -->
+<!-- Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen. -->
+ - **Feedback**: Mostly positive, first participant complains about the text content feels too full although the text is not too small for mobile [<!-- TODO: give reference -->]. 
+<!-- Provide feedback (positive or negative) given by the participants, if any. -->
+ - **Incidence**: N/A
+<!-- Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any. -->
+ - **Reason**: N/A
+<!-- Explain the reason for the breakdowns or the negative feedback observed on the screen. -->
+ - **Resolution**: Consider to reconfigure the text spacing or font size and add some information about other thread.
+<!-- Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`. -->
  
 #### OBSERVATION 2
-![Prototype Screen 2](https://www.studiainitalia.com/wp-content/uploads/2017/02/free-courses-Learn-Italian-Online.jpg)
+![Prototype Screen 2](/img/obsv2.png)
 
- - **Reference**: 
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 2`.
+ - **Reference**: <!-- TODO: give reference -->
+ - **Feedback**: Same as [screen 1](#observation-1) because this screen basically an extension of [screen 1](#observation-1) due to InVision limitation.
+ - **Incidence**: Both participant reloads the page instead moving to [screen 1](#observation-1) while swiping down on the screen.
+ - **Reason**: This is both browser and prototyping app limitation. Because Chrome Mobile Browser uses swipe down gesture to reload the page.
+ - **Resolution**: Same as [screen 1](#observation-1) because this screen basically an extension of [screen 1](#observation-1) due to InVision limitation.
  
 #### OBSERVATION 3
-![Prototype Screen 3](https://www.jbklutse.com/wp-content/uploads/2019/01/language-learning-apps.png)
+![Prototype Screen 3](/img/obsv3.png)
 
  - **Reference**:  
- - **Feedback**: 
- - **Incidence**: 
- - **Reason**: 
- - **Resolution**: Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 3`.
- 
- ... and so on ...
+ - **Feedback**: Both participant gives positive feedback.
+ - **Incidence**: N/A
+ - **Reason**: N/A
+ - **Resolution**: Keep it.
+
+#### OBSERVATION 4
+![Prototype Screen 4](/img/obsv4.png)
+
+ - **Reference**:  
+ - **Feedback**: Both participant gives positive feedback.
+ - **Incidence**: N/A
+ - **Reason**: N/A
+ - **Resolution**: Keep it.
  
  ---
 
@@ -151,6 +165,8 @@ Here is the instruction that I give to each participant (not in particular order
 ### Design Rationale
 > Please write a paragraph expressing what you have learned from the usability evaluation, 
 > and how it is reflected in your design.
+
+Based from this usability evaluation, we can conclude that the use of mobile view on forum website can ease the mobile user to read the content, navigate through pages, and selecting some menus. The higher number of character displayed each line might cause the reader tired, so it's better to increase the spacing. 
 
 ### High-Fidelity Interactive-Prototype
 > Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
