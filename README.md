@@ -145,32 +145,32 @@ B is Second Participant
 ```
 
 1. \#\#\# INTRODUCTION SECTION \#\#\#
-2. A `->` Apakah masnya pernah membuka suatu situs forum di HP sebelumnya?
-3. B `->` Kalau dulu saya pernah buka situs-situs forum seperti republika di HP. Saya juga dulu punya aplikasinya.
+2. **A** `->` Apakah masnya pernah membuka suatu situs forum di HP sebelumnya?
+3. **B** `->` Kalau dulu saya pernah buka situs-situs forum seperti republika di HP. Saya juga dulu punya aplikasinya.
 4. `<<next part is skipped because the content is considered as not important (mostly random chat about discussing what is forum website that I mean instead talking about the original version of site)>>`
 5. \#\#\# MAIN SECTION \#\#\#
-6. A `->` Nah, jadi saya sudah membuat versi prototype untuk memperbaiki masalah yang ada di situs tersebut. Silakan masnya bisa dicoba-coba dulu.
-7. B `->` *\*Trying to swipe-up swipe-down on prototype\**
-8. B `->` *\*Browser reloads when the participant swipe-up on screen 2\** Ini kok reload lagi ya pas saya scroll ke atas?
-9. A `->` Jadi ini memang settingan dari browsernya agak mengganggu. Seharusnya nggak seperti itu.
-10. B `->` Oh...
-11. A `->` Coba masnya pindah-pindah page.
-12. B `->` *\*Trying to navigate between pages\**
-13. A `->` Terus coba masnya coba menu search-nya.
-14. B `->` *\*Trying the search feature\**
-15. A `->` Jadi bagaimana komentar masnya tentang prototype ini?
-16. B `->` Sudah bagus, kalau dari sisi navigasinya yang ini lebih mudah digunakan. Dari segi tampilannya lebih pas di mobile soalnya nggak perlu nge-zoom dulu kalau mau baca.
-17. A `->` Kalau dari kekurangannya kira-kira apa yang masih kurang dari prototype ini?
-18. B `->` Menurutku sih di sini masih kurang kayak sejenis link ke thread lain yang lagi hot. Kan yang seperti itu cukup berguna buat forum.
-19. A `->` Maksudnya daftar thread yang seperti "Hot Thread", "New Thread" seperti itu?
-20. B `->` Ya, seperti itu maksudnya.
-21. A `->` Kalau selain itu, mungkin dari segi warna apakah sudah cocok seperti ini?
-22. B `->` Kalau dari warna nggak masalah sih, justru saya suka warnanya yang dominan biru seperti ini.
-23. A `->` Terus kalau dari ukuran tulisan apakah menurut masnya kekecilan atau sudah pas buat mobile?
-24. B `->` Ukuran tulisannya sudah pas sih.
-25. A `->` Mungkin masih ada kekurangan lain kah dari prototype ini?
-26. B `->` Kayaknya udah cukup sih.
-27. A `->` Baik, terima kasih atas bantuannya. 
+6. **A** `->` Nah, jadi saya sudah membuat versi prototype untuk memperbaiki masalah yang ada di situs tersebut. Silakan masnya bisa dicoba-coba dulu.
+7. **B** `->` *\*Trying to swipe-up swipe-down on prototype\**
+8. **B** `->` *\*Browser reloads when the participant swipe-up on screen 2\** Ini kok reload lagi ya pas saya scroll ke atas?
+9. **A** `->` Jadi ini memang settingan dari browsernya agak mengganggu. Seharusnya nggak seperti itu.
+10. **B** `->` Oh...
+11. **A** `->` Coba masnya pindah-pindah page.
+12. **B** `->` *\*Trying to navigate between pages\**
+13. **A** `->` Terus coba masnya coba menu search-nya.
+14. **B** `->` *\*Trying the search feature\**
+15. **A** `->` Jadi bagaimana komentar masnya tentang prototype ini?
+16. **B** `->` Sudah bagus, kalau dari sisi navigasinya yang ini lebih mudah digunakan. Dari segi tampilannya lebih pas di mobile soalnya nggak perlu nge-zoom dulu kalau mau baca.
+17. **A** `->` Kalau dari kekurangannya kira-kira apa yang masih kurang dari prototype ini?
+18. **B** `->` Menurutku sih di sini masih kurang kayak sejenis link ke thread lain yang lagi hot. Kan yang seperti itu cukup berguna buat forum.
+19. **A** `->` Maksudnya daftar thread yang seperti "Hot Thread", "New Thread" seperti itu?
+20. **B** `->` Ya, seperti itu maksudnya.
+21. **A** `->` Kalau selain itu, mungkin dari segi warna apakah sudah cocok seperti ini?
+22. **B** `->` Kalau dari warna nggak masalah sih, justru saya suka warnanya yang dominan biru seperti ini.
+23. **A** `->` Terus kalau dari ukuran tulisan apakah menurut masnya kekecilan atau sudah pas buat mobile?
+24. **B** `->` Ukuran tulisannya sudah pas sih.
+25. **A** `->` Mungkin masih ada kekurangan lain kah dari prototype ini?
+26. **B** `->` Kayaknya udah cukup sih.
+27. **A** `->` Baik, terima kasih atas bantuannya. 
 
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
@@ -181,7 +181,7 @@ B is Second Participant
 
  - **Reference**: Participant 1 Line 28, 30, 32. Participant 2 Line 18, 22
 <!-- Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen. -->
- - **Feedback**: Somewhat positive, first participant complains about the text content feels too full although the text is not too small for mobile **[P1 Line-32]**. First participant feels the color feels too generic (only black over white background) **[P1 Line-28]** but the second participant don't mind about it **[P2 Line-18]** .First participant commented about the absence of thread categorization **[P1 Line-30]** *(Actually I don't get what he mean but I think he refers to breadcrumbs. If so, it means that the he don't know the existence of breadcrumbs there)*. The second participant commented about the absence of the informations of other thread on the site like "Hot Threads", "New Threads" and "Last Commented Threads" **[P2 Line-22]**.
+ - **Feedback**: Somewhat positive, first participant complains about the text content feels too full although the text is not too small for mobile **[P1 Line-32]**. First participant feels the color feels too generic (only black over white background) **[P1 Line-28]** but the second participant don't mind about it **[P2 Line-22]** .First participant commented about the absence of thread categorization **[P1 Line-30]** *(Actually I don't get what he mean but I think he refers to breadcrumbs. If so, it means that the he don't know the existence of breadcrumbs there)*. The second participant commented about the absence of the informations of other thread on the site like "Hot Threads", "New Threads" and "Last Commented Threads" **[P2 Line-18]**.
 <!-- Provide feedback (positive or negative) given by the participants, if any. -->
  - **Incidence**: N/A
 <!-- Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any. -->
