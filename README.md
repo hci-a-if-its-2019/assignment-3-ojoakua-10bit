@@ -93,16 +93,25 @@ Here is the instruction that I give to each participant (not in particular order
 > Remember to supplement the transcript with time-codes or line-numbers.
 
 #### a. Transcript with Participant 1
- 1. **You**: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- 2. **Participant**: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- 3. **You**: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- 4. **Participant**: The Quick Brown Fox Jumps Over The Lazy Dog.
+
+Legend:
+```
+A -> Me
+B -> First Participant
+```
+
+ 1. **A** -> some lines
+ 2. **B** -> some other lines 
 
 #### b. Transcript with Participant 2
- - **00:01** 👨‍🔬 You: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
- - **00:10** 👨‍💻 Participant: Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
- - **00:17** 👨‍🔬 You: when an unknown printer took a galley of type and scrambled it to make a type specimen book.
- - **00:25** 👨‍💻 Participant: The Quick Brown Fox Jumps Over The Lazy Dog.
+Legend:
+```
+A -> Me
+B -> Second Participant
+```
+
+1. **A** -> some lines
+2. **B** -> some other lines
 
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
@@ -113,13 +122,13 @@ Here is the instruction that I give to each participant (not in particular order
 
  - **Reference**: <!-- TODO: give reference -->
 <!-- Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen. -->
- - **Feedback**: Mostly positive, first participant complains about the text content feels too full although the text is not too small for mobile [<!-- TODO: give reference -->]. 
+ - **Feedback**: Somewhat positive, first participant complains about the text content feels too full although the text is not too small for mobile [<!-- TODO: give reference -->]. First participant feels the color feels too generic (only black over white background) but the second participant don't mind about it. First participant commented about the absence of thread categorization *(Actually I don't get what he mean but I think he refers to breadcrumbs. If so, it means that the he don't know the existence of breadcrumbs there)*. The second participant commented about the absence of the informations of other thread on the site like "Hot Threads", "New Threads" and "Last Commented Threads"
 <!-- Provide feedback (positive or negative) given by the participants, if any. -->
  - **Incidence**: N/A
 <!-- Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any. -->
  - **Reason**: N/A
 <!-- Explain the reason for the breakdowns or the negative feedback observed on the screen. -->
- - **Resolution**: Consider to reconfigure the text spacing or font size and add some information about other thread.
+ - **Resolution**: Consider to reconfigure the text spacing or font size, redesign the breadcrumbs and add some information about other thread.
 <!-- Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`. -->
  
 #### OBSERVATION 2
