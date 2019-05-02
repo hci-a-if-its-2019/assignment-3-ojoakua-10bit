@@ -55,14 +55,14 @@ Here is how I use the prototype:
  - A male student
  - 20 years old
  - Study at ITS, Department of Chemistry
- - Medium level of IT knowledge
+ - Medium level of IT knowledge (frequently using IT, a little troubleshooting skill)
  - Reason: I have difficulties to reach the person from first CI, so I have to use new person for both test.
 
 #### b. Description of Participant 2
  - A male person
  - 22 years old
  - Alumni of ITS, Department of Material engineering, just freshly graduated
- - Lower-medium level of IT knowledge
+ - Lower-medium level of IT knowledge (frequently using IT, just can use)
  - Reason: I have difficulties to reach the person from first CI, so I have to use new person for both test.
 
 ### 2. Evaluation Script
@@ -94,24 +94,58 @@ Here is the instruction that I give to each participant (not in particular order
 
 #### a. Transcript with Participant 1
 
-Legend:
+**Legend:**
 ```
-A -> Me
-B -> First Participant
+A is Me
+B is First Participant
 ```
 
- 1. **A** -> some lines
- 2. **B** -> some other lines 
+ 1. \#\#\# INTRODUCTION SECTION \#\#\#
+ 2. **A** `->` Pertama saya ingin bertanya beberapa informasi tentang masnya
+ 3. **B** `->` Silakan
+ 4. **A** `->` Apakah masnya pernah membuka suatu situs forum seperti kaskus di HP sebelumnya?
+ 5. **B** `->` Pernah dulu banget. Tapi saya bukanya di laptop bukan di HP.
+ 6. **A** `->` Jadi di sini saya ada sebuah situs forum. Alamatnya forum.doom9.org silakan dibuka.
+ 7. **B** `->` *Membuka situs*
+ 8. **A** `->` Coba baca kontennya, tapi gausah paham isinya. 
+ 9. **B** `->` *Mencoba membaca post di sana*
+ 10. **A** `->` Kira-kira mas nyaman nggak kalau tampilannya gini?
+ 11. **B** `->` Nggak nyaman, soalnya ukuran tulisannya kekecilan. Dan juga websitenya kelihatan kurang rapi.
+ 12. **A** `->` Ok, untuk sekarang coba untuk pindah-pindah halaman.
+ 13. **B** `->` *Mencoba berpindah dari halaman satu ke halaman lain*
+ 14. **A** `->` Sekarang coba untuk cari menu search
+ 15. **B** `->` *Mencari menu search tapi yang diklik menu goto page*
+ 16. **A** `->` Jadi bagaimana komentar masnya tentang situs ini?
+ 17. **B** `->` Menurutku nggak enak. Soalnya penempatan kayak menu search sulit nyarinya.
+ 18. **A** `->` Kalau masalah navigasinya gimana?
+ 19. **B** `->` Untuk yang itu rasanya cukup menusahkan sih terutama buat pengguna mobile karena linknya kecil dan harus zoom-zoom gitu.
+ 20. \#\#\# MAIN SECTION \#\#\#
+ 21. A `->` Jadi, saya sudah membuat sebuah prototype untuk memperbaiki beberapa masalah tersebut. Jadi silakan bisa dicoba prototypenya. (*sambil membukakan prototype*)
+ 22. B `->` *Mencoba melihat-lihat prototype*
+ 23. A `->` Coba buat ganti-ganti page.
+ 24. B `->` *Mencoba berpindah antar page*
+ 25. A `->` Coba bagaimana fitur search-nya?
+ 26. B `->` *Mencoba fitur search*
+ 27. A `->` Jadi keseluruhan dari prototype ini bagian mana yang dirasa masnya masih kurang?
+ 28. B `->` Sudah cukup bagus, tampilannya sudah pas di mobile. Tapi rasanya warnanya agak terlalu biasa. Tulisannya hitam dan backgroundnya putih.
+ 29. A `->` Kalau selain warna mungkin ada yang sekiranya masih kurang di prototype ini?
+ 30. B `->` Saya melihatnya di sini masih kurang menu kategorisasi di threadnya. Jadi kita bisa melihat thread ini ada di bagian mana. Seperti itu.
+ 31. A `->` Kalau dari ukuran fontnya apakah sudah pas atau mungkin kekecilan?
+ 32. B `->` Sudah pas. Tapi nggak tahu karena memang pemilihan fontnya atau bagaimana tapi saya merasa konten teksnya terlalu penuh ke samping. Cukup melelahkan kalau dibaca cukup lama.
+ 33. A `->` Mungkin selain itu ada lagi kah yang masih kurang dari prototype ini?
+ 34. B `->` Nggak ada sih.
+ 35. A `->` Baik, terima kasih atas bantuannya
 
 #### b. Transcript with Participant 2
 Legend:
 ```
-A -> Me
-B -> Second Participant
+A is Me
+B is Second Participant
 ```
 
-1. **A** -> some lines
-2. **B** -> some other lines
+1. \#\#\# INTRODUCTION PART \#\#\#
+2. **A** `->` some lines
+3. **B** `->` some other lines
 
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
@@ -176,6 +210,7 @@ B -> Second Participant
 > and how it is reflected in your design.
 
 Based from this usability evaluation, we can conclude that the use of mobile view on forum website can ease the mobile user to read the content, navigate through pages, and selecting some menus. The higher number of character displayed each line might cause the reader tired, so it's better to increase the spacing. 
+Each person might have their own color preferences, so it's impossible to please them about color preferences. But it's ok as long as the color doesn't confuse users or decrease the readibility or visibility of the content.
 
 ### High-Fidelity Interactive-Prototype
 > Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
