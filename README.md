@@ -106,46 +106,71 @@ B is First Participant
  4. **A** `->` Apakah masnya pernah membuka suatu situs forum seperti kaskus di HP sebelumnya?
  5. **B** `->` Pernah dulu banget. Tapi saya bukanya di laptop bukan di HP.
  6. **A** `->` Jadi di sini saya ada sebuah situs forum. Alamatnya forum.doom9.org silakan dibuka.
- 7. **B** `->` *Membuka situs*
+ 7. **B** `->` *\*Opening the site\**
  8. **A** `->` Coba baca kontennya, tapi gausah paham isinya. 
- 9. **B** `->` *Mencoba membaca post di sana*
+ 9. **B** `->` *\*Attempting to read the posts there\**
  10. **A** `->` Kira-kira mas nyaman nggak kalau tampilannya gini?
  11. **B** `->` Nggak nyaman, soalnya ukuran tulisannya kekecilan. Dan juga websitenya kelihatan kurang rapi.
  12. **A** `->` Ok, untuk sekarang coba untuk pindah-pindah halaman.
- 13. **B** `->` *Mencoba berpindah dari halaman satu ke halaman lain*
+ 13. **B** `->` *\*Attempting to navigate between pages\**
  14. **A** `->` Sekarang coba untuk cari menu search
- 15. **B** `->` *Mencari menu search tapi yang diklik menu goto page*
+ 15. **B** `->` *\*Looking for `search` menu, clicked on `Go to` menu instead\**
  16. **A** `->` Jadi bagaimana komentar masnya tentang situs ini?
  17. **B** `->` Menurutku nggak enak. Soalnya penempatan kayak menu search sulit nyarinya.
  18. **A** `->` Kalau masalah navigasinya gimana?
  19. **B** `->` Untuk yang itu rasanya cukup menusahkan sih terutama buat pengguna mobile karena linknya kecil dan harus zoom-zoom gitu.
  20. \#\#\# MAIN SECTION \#\#\#
- 21. A `->` Jadi, saya sudah membuat sebuah prototype untuk memperbaiki beberapa masalah tersebut. Jadi silakan bisa dicoba prototypenya. (*sambil membukakan prototype*)
- 22. B `->` *Mencoba melihat-lihat prototype*
- 23. A `->` Coba buat ganti-ganti page.
- 24. B `->` *Mencoba berpindah antar page*
- 25. A `->` Coba bagaimana fitur search-nya?
- 26. B `->` *Mencoba fitur search*
- 27. A `->` Jadi keseluruhan dari prototype ini bagian mana yang dirasa masnya masih kurang?
- 28. B `->` Sudah cukup bagus, tampilannya sudah pas di mobile. Tapi rasanya warnanya agak terlalu biasa. Tulisannya hitam dan backgroundnya putih.
- 29. A `->` Kalau selain warna mungkin ada yang sekiranya masih kurang di prototype ini?
- 30. B `->` Saya melihatnya di sini masih kurang menu kategorisasi di threadnya. Jadi kita bisa melihat thread ini ada di bagian mana. Seperti itu.
- 31. A `->` Kalau dari ukuran fontnya apakah sudah pas atau mungkin kekecilan?
- 32. B `->` Sudah pas. Tapi nggak tahu karena memang pemilihan fontnya atau bagaimana tapi saya merasa konten teksnya terlalu penuh ke samping. Cukup melelahkan kalau dibaca cukup lama.
- 33. A `->` Mungkin selain itu ada lagi kah yang masih kurang dari prototype ini?
- 34. B `->` Nggak ada sih.
- 35. A `->` Baik, terima kasih atas bantuannya
+ 21. **A** `->` Jadi, saya sudah membuat sebuah prototype untuk memperbaiki beberapa masalah tersebut. Jadi silakan bisa dicoba prototypenya.
+ 22. **B** `->` *\*Trying to swipe-up and swipe-down on prototype\**
+ 23. **A** `->` Coba buat ganti-ganti page.
+ 24. **B** `->` *\*Trying to navigate between pages\**
+ 25. **A** `->` Coba bagaimana fitur search-nya?
+ 26. **B** `->` *\*Trying the search feature\**
+ 27. **A** `->` Jadi keseluruhan dari prototype ini bagian mana yang dirasa masnya masih kurang?
+ 28. **B** `->` Sudah cukup bagus, tampilannya sudah pas di mobile. Tapi rasanya warnanya agak terlalu biasa. Tulisannya hitam dan backgroundnya putih.
+ 29. **A** `->` Kalau selain warna mungkin ada yang sekiranya masih kurang di prototype ini?
+ 30. **B** `->` Saya melihatnya di sini masih kurang menu kategorisasi di threadnya. Jadi kita bisa melihat thread ini ada di bagian mana. Seperti itu.
+ 31. **A** `->` Kalau dari ukuran fontnya apakah sudah pas atau mungkin kekecilan?
+ 32. **B** `->` Sudah pas. Tapi nggak tahu karena memang pemilihan fontnya atau bagaimana tapi saya merasa konten teksnya terlalu penuh ke samping. Cukup melelahkan kalau dibaca cukup lama.
+ 33. **A** `->` Mungkin selain itu ada lagi kah yang masih kurang dari prototype ini?
+ 34. **B** `->` Nggak ada sih.
+ 35. **A** `->` Baik, terima kasih atas bantuannya
 
 #### b. Transcript with Participant 2
-Legend:
+
+**Legend:**
 ```
 A is Me
 B is Second Participant
 ```
 
-1. \#\#\# INTRODUCTION PART \#\#\#
-2. **A** `->` some lines
-3. **B** `->` some other lines
+1. \#\#\# INTRODUCTION SECTION \#\#\#
+2. A `->` Apakah masnya pernah membuka suatu situs forum di HP sebelumnya?
+3. B `->` Kalau dulu saya pernah buka situs-situs forum seperti republika di HP. Saya juga dulu punya aplikasinya.
+4. `<<next part is skipped because the content is considered as not important (mostly random chat about discussing what is forum website that I mean instead talking about the original version of site)>>`
+5. \#\#\# MAIN SECTION \#\#\#
+6. A `->` Nah, jadi saya sudah membuat versi prototype untuk memperbaiki masalah yang ada di situs tersebut. Silakan masnya bisa dicoba-coba dulu.
+7. B `->` *\*Trying to swipe-up swipe-down on prototype\**
+8. B `->` *\*Browser reloads when the participant swipe-up on screen 2\** Ini kok reload lagi ya pas saya scroll ke atas?
+9. A `->` Jadi ini memang settingan dari browsernya agak mengganggu. Seharusnya nggak seperti itu.
+10. B `->` Oh...
+11. A `->` Coba masnya pindah-pindah page.
+12. B `->` *\*Trying to navigate between pages\**
+13. A `->` Terus coba masnya coba menu search-nya.
+14. B `->` *\*Trying the search feature\**
+15. A `->` Jadi bagaimana komentar masnya tentang prototype ini?
+16. B `->` Sudah bagus, kalau dari sisi navigasinya yang ini lebih mudah digunakan. Dari segi tampilannya lebih pas di mobile soalnya nggak perlu nge-zoom dulu kalau mau baca.
+17. A `->` Kalau dari kekurangannya kira-kira apa yang masih kurang dari prototype ini?
+18. B `->` Menurutku sih di sini masih kurang kayak sejenis link ke thread lain yang lagi hot. Kan yang seperti itu cukup berguna buat forum.
+19. A `->` Maksudnya daftar thread yang seperti "Hot Thread", "New Thread" seperti itu?
+20. B `->` Ya, seperti itu maksudnya.
+21. A `->` Kalau selain itu, mungkin dari segi warna apakah sudah cocok seperti ini?
+22. B `->` Kalau dari warna nggak masalah sih, justru saya suka warnanya yang dominan biru seperti ini.
+23. A `->` Terus kalau dari ukuran tulisan apakah menurut masnya kekecilan atau sudah pas buat mobile?
+24. B `->` Ukuran tulisannya sudah pas sih.
+25. A `->` Mungkin masih ada kekurangan lain kah dari prototype ini?
+26. B `->` Kayaknya udah cukup sih.
+27. A `->` Baik, terima kasih atas bantuannya. 
 
 ### 4. Feedback and Incidence Analysis
 > Record your observations per prototype screen followed by reference, feedback, incidence, reason, and resolution.
@@ -154,9 +179,9 @@ B is Second Participant
 ![Prototype Screen 1](/img/obsv1.png)
 <!-- TODO: Annotate the pic -->
 
- - **Reference**: <!-- TODO: give reference -->
+ - **Reference**: Participant 1 Line 28, 30, 32. Participant 2 Line 18, 22
 <!-- Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen. -->
- - **Feedback**: Somewhat positive, first participant complains about the text content feels too full although the text is not too small for mobile [<!-- TODO: give reference -->]. First participant feels the color feels too generic (only black over white background) but the second participant don't mind about it. First participant commented about the absence of thread categorization *(Actually I don't get what he mean but I think he refers to breadcrumbs. If so, it means that the he don't know the existence of breadcrumbs there)*. The second participant commented about the absence of the informations of other thread on the site like "Hot Threads", "New Threads" and "Last Commented Threads"
+ - **Feedback**: Somewhat positive, first participant complains about the text content feels too full although the text is not too small for mobile **[P1 Line-32]**. First participant feels the color feels too generic (only black over white background) **[P1 Line-28]** but the second participant don't mind about it **[P2 Line-18]** .First participant commented about the absence of thread categorization **[P1 Line-30]** *(Actually I don't get what he mean but I think he refers to breadcrumbs. If so, it means that the he don't know the existence of breadcrumbs there)*. The second participant commented about the absence of the informations of other thread on the site like "Hot Threads", "New Threads" and "Last Commented Threads" **[P2 Line-22]**.
 <!-- Provide feedback (positive or negative) given by the participants, if any. -->
  - **Incidence**: N/A
 <!-- Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any. -->
@@ -168,17 +193,17 @@ B is Second Participant
 #### OBSERVATION 2
 ![Prototype Screen 2](/img/obsv2.png)
 
- - **Reference**: <!-- TODO: give reference -->
+ - **Reference**: Same as [screen 1](#observation-1) because this screen basically an extension of [screen 1](#observation-1) due to InVision limitation.
  - **Feedback**: Same as [screen 1](#observation-1) because this screen basically an extension of [screen 1](#observation-1) due to InVision limitation.
- - **Incidence**: Both participant reloads the page instead moving to [screen 1](#observation-1) while swiping down on the screen.
+ - **Incidence**: Both participant reloads the page instead moving to [screen 1](#observation-1) while swiping down on the screen. **[P2 Line-8]**
  - **Reason**: This is both browser and prototyping app limitation. Because Chrome Mobile Browser uses swipe down gesture to reload the page.
- - **Resolution**: Same as [screen 1](#observation-1) because this screen basically an extension of [screen 1](#observation-1) due to InVision limitation.
+ - **Resolution**: Same as [screen 1](#observation-1) because this screen basically an extension of [screen 1](#observation-1) due to InVision limitation. And consider to use a better prototyping application.
  
 #### OBSERVATION 3
 ![Prototype Screen 3](/img/obsv3.png)
 
  - **Reference**:  
- - **Feedback**: Both participant gives positive feedback.
+ - **Feedback**: Both participant gives positive feedback. (no negative comment on this screen, participants don't have any difficulties on this screen)
  - **Incidence**: N/A
  - **Reason**: N/A
  - **Resolution**: Keep it.
@@ -187,7 +212,7 @@ B is Second Participant
 ![Prototype Screen 4](/img/obsv4.png)
 
  - **Reference**:  
- - **Feedback**: Both participant gives positive feedback.
+ - **Feedback**: Both participant gives positive feedback. (no negative comment on this screen, participants don't have any difficulties on this screen)
  - **Incidence**: N/A
  - **Reason**: N/A
  - **Resolution**: Keep it.
