@@ -181,13 +181,13 @@ B is Second Participant
 
  - **Reference**: Participant 1 Line 28, 30, 32. Participant 2 Line 18, 22
 <!-- Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen. -->
- - **Feedback**: Somewhat positive, first participant complains about the text content feels too full although the text is not too small for mobile **[P1 Line-32]**. First participant feels the color feels too generic (only black over white background) **[P1 Line-28]** but the second participant don't mind about it **[P2 Line-22]** .First participant commented about the absence of thread categorization **[P1 Line-30]** *(Actually I don't get what he mean but I think he refers to breadcrumbs. If so, it means that the he don't know the existence of breadcrumbs there)*. The second participant commented about the absence of the informations of other thread on the site like "Hot Threads", "New Threads" and "Last Commented Threads" **[P2 Line-18]**.
+ - **Feedback**: Somewhat positive, first participant complains about the text content feels too full although the text is not too small for mobile **[P1 Line-32]**. First participant feels the color feels too generic (only black over white background) **[P1 Line-28]** but the second participant don't mind about it **[P2 Line-22]** .First participant commented about the absence of thread categorization **[P1 Line-30]** *(~~Actually I don't get what he mean but I think he refers to breadcrumbs. If so, it means that the he don't know the existence of breadcrumbs there~~ After doing some short research on some forum websites, I got what he meant. It didn't refer to the breadcrumbs but another absent element)*. The second participant commented about the absence of the informations of other thread on the site like "Hot Threads", "New Threads" and "Last Commented Threads" **[P2 Line-18]**.
 <!-- Provide feedback (positive or negative) given by the participants, if any. -->
  - **Incidence**: N/A
 <!-- Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any. -->
  - **Reason**: N/A
 <!-- Explain the reason for the breakdowns or the negative feedback observed on the screen. -->
- - **Resolution**: Consider to reconfigure the text spacing or font size, redesign the breadcrumbs and add some information about other thread.
+ - **Resolution**: Consider to reconfigure the text spacing or font size, ~~redesign the breadcrumbs~~ and add some information about other thread.
 <!-- Suggest any modifications that might be made to the UI to address the issues in this `OBSERVATION 1`. -->
  
 #### OBSERVATION 2
@@ -206,7 +206,7 @@ B is Second Participant
  - **Feedback**: Both participant gives positive feedback. (no negative comment on this screen, participants don't have any difficulties on this screen)
  - **Incidence**: N/A
  - **Reason**: N/A
- - **Resolution**: Keep it.
+ - **Resolution**: ~~Keep it.~~ I planned to place the thread categorization here because it's too full if I put on [screen 1](#observation-1).
 
 #### OBSERVATION 4
 ![Prototype Screen 4](/img/obsv4.png)
@@ -228,7 +228,9 @@ B is Second Participant
 > Afterwards, scan the sketch or make the photograph of it and attach it on this report's section.
 > Please make sure the any texts on the sketch are readable.
 
-![Sketch of Refined Prototype](https://cdn2.hubspot.net/hub/725165/file-3421843765-png/blog-files/uxpin--300x211.png)
+Here is my hand-drawn revision. Unchanged screens is marked by big `X`.
+
+![Sketch of Refined Prototype](/img/sketch.jpg)
 
 ### Design Rationale
 > Please write a paragraph expressing what you have learned from the usability evaluation, 
@@ -240,3 +242,5 @@ Each person might have their own color preferences, so it's impossible to please
 ### High-Fidelity Interactive-Prototype
 > Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
 > You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
+
+The high-fidelity prototype is under construction...
