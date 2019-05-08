@@ -181,7 +181,7 @@ B is Second Participant
 
  - **Reference**: Participant 1 Line 28, 30, 32. Participant 2 Line 18, 22
 <!-- Provide line-number(s) or time-code(s) referred by feedback/incidence observed on the screen. -->
- - **Feedback**: Somewhat positive, first participant complains about the text content feels too full although the text is not too small for mobile **[P1 Line-32]**. First participant feels the color feels too generic (only black over white background) **[P1 Line-28]** but the second participant don't mind about it **[P2 Line-22]** .First participant commented about the absence of thread categorization **[P1 Line-30]** *(~~Actually I don't get what he mean but I think he refers to breadcrumbs. If so, it means that the he don't know the existence of breadcrumbs there~~ After doing some short research on some forum websites, I got what he meant. It didn't refer to the breadcrumbs but another absent element)*. The second participant commented about the absence of the informations of other thread on the site like "Hot Threads", "New Threads" and "Last Commented Threads" **[P2 Line-18]**.
+ - **Feedback**: Somewhat positive, first participant complained about the text content feels too full although the text is not too small for mobile **[P1 Line-32]**. First participant feels the color feels too generic (only black over white background) **[P1 Line-28]** but the second participant don't mind about it **[P2 Line-22]**. First participant also commented about the absence of thread categorization **[P1 Line-30]** *(~~Actually I don't get what he mean but I think he refers to breadcrumbs. If so, it means that the he don't know the existence of breadcrumbs there~~ After doing some short research on some forum websites, I got what he meant. It didn't refer to the breadcrumbs but another absent element)*. The second participant commented about the absence of the informations of other thread on the site like "Hot Threads", "New Threads" and "Last Commented Threads" **[P2 Line-18]**.
 <!-- Provide feedback (positive or negative) given by the participants, if any. -->
  - **Incidence**: N/A
 <!-- Critical incidences (breakdowns or problems encountered by the participants) and/or mistakes committed by the participants, if any. -->
@@ -243,4 +243,4 @@ Each person might have their own color preferences, so it's impossible to please
 > Create a high-fidelity interactive-prototype based on the `Sketch` you have drawn.
 > You can use any prototyping tools: InVision, Adobe XD, or even Microsoft PowerPoint.
 
-The high-fidelity prototype is under construction...
+The high-fidelity prototype can be found [here](https://invis.io/PBRX95NU3HV)
